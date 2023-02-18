@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wujun234&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wujun234&repo=uid-generator-spring-boot-starter)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wujun234&repo=hexo-theme-tree)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wujun234&repo=wujun234.github.io)](https://github.com/anuraghazra/github-readme-stats)
