@@ -1,5 +1,5 @@
 ### Hi there 👋
-Sorry don't have mush to show on github 😂
+Sorry, don't have much to show on GitHub 😂
 
 <!--
 **wujun234/wujun234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
